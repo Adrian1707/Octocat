@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+In git, a branch is a seperate fork in our own repository where we can make changes and experiment with code without it affecting the project itself. When we ‘merge’ the branch, then our changes and experimenting will start to affect the original code.
