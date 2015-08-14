@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+Upstream refers to the remote branch on the original repository where all commits are pushed to from where all other changes will come in from. 
