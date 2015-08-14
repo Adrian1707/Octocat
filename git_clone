@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone is used to collaborate on projects read, edit and contribute to the work of other developers. When we clone a repository from Github we copy the directories and files onto our own local directory, as well as all of the commits from that repository. 
